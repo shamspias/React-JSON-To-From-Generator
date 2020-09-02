@@ -1,0 +1,26 @@
+{
+    "attributes" : [
+    {
+      "label": "Input 1",
+      "placeholder": "Input a text",
+      "type": "text",
+      "element": "h1"
+    },
+    {
+      "label": "Select 1",
+      "placeholder": "Input a text",
+      "type": "select",
+      "options": [
+        {
+          "label": "Option 1",
+          "value": "value 1"
+        },
+        {
+          "label": "Option 2",
+          "value": "value 2"
+        }
+      ],
+      "element": "p"
+    }
+  ]
+  }
